@@ -318,8 +318,8 @@ font-weight: 900;
 }
 .menu{
     position: relative;
-    right: 3px;
-    top:0px;
+    right: 8px;
+    top:10px;
     display: none;
     cursor: pointer;
     font-size: 25px;
@@ -947,6 +947,7 @@ width: 47%;
     position: fixed;
     bottom: 20px;
     right: -60px;
+    z-index: 20000;
     border-radius:9px 1px 9px 5px;
 }
 .up:hover,
