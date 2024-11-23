@@ -1,5 +1,5 @@
 let landingPage=document.querySelector(".landing-page")
-let myArray=["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg",]
+let myArray=["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"]
 let setingsBox=document.querySelector(".setings-box")
 let icon=document.querySelector(".ico")
 let ii=document.querySelector(".fa-solid")
